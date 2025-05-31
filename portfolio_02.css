@@ -22,7 +22,7 @@ a{
 }
 
 .nav-link{
-    color: white !important;
+    color: white;
     font-weight: 500;
     margin-left: 10px;
 }
